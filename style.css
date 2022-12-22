@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica,sans-serif;
+}
+
+.landing-main-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.landing-main-info a {
+    color: brown;
+}
+
+#work-cite-link {
+    color: chocolate;
+}
+
+.landing-page-header {
+    font-family: 'Times New Roman',Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 105px;
+}
