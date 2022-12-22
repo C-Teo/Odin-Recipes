@@ -25,3 +25,28 @@
 .landing-page-links {
     line-height: 35px;
 }
+
+img {
+    width: auto;
+    height: 350px;
+}
+
+.recipe-image {
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-description {
+    color: rgb(16, 16, 16);
+}
+
+
+h1,
+h2 {
+    color: white;
+    background-color: brown;
+}
+
+h2 {
+    line-height: 20px;
+}
