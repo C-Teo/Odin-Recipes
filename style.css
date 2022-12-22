@@ -50,3 +50,7 @@ h2 {
 h2 {
     line-height: 20px;
 }
+
+.return-link {
+    color: rgb(175, 175, 175);
+}
