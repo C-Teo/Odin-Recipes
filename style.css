@@ -4,7 +4,8 @@
 
 .landing-main-info {
     display: flex;
-    align-items: center;
+    padding: 20px 20%;
+    margin: 0 auto;
     flex-direction: column;
 }
 
@@ -19,7 +20,10 @@
 .landing-page-header {
     font-family: 'Times New Roman',Helvetica,sans-serif;
     font-weight: 700;
+    text-align: center;
     font-size: 105px;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .landing-page-links {
